@@ -1,0 +1,9 @@
+const foo=32;
+var a;
+begin
+if foo=32 then
+a := 64
+else
+a := 96;
+write(a)
+end.

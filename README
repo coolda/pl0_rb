@@ -1,0 +1,42 @@
+/* README */
+pl0_rb is a ruby version of PL0 designed by Dr.Worth
+written in pascal.
+you see 4 ruby files and some test programs here.
+1. pl1.rb
+2. inter1.rb
+3. mysym2.rb
+4. error.rb
+usage:
+1. pull one test file from tes_prog and put it in 
+   a same level of pl1.rb
+2. $ ./pl1.rb if
+3. you will see if.cod file generated.
+4. $ ./inter1.rb if.cod
+5. in default you see 3 prints, 1st is intermediate file,
+   2nd is same but all in numbers, then 3rd is first 24 stack
+   is in view, for we can see whats up.
+Look at it, Expand it, Modify it, As you like.
+pl0_rb is LEMA.
+
+pl0_rb license
+Copyright (c) 2012, coolda
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+      
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

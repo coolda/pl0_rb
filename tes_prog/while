@@ -1,0 +1,11 @@
+const sz = 5;
+var i, j;
+begin
+i := 1;
+while i <= sz do
+i := i + 1
+end;
+begin
+write(i)
+end.
+

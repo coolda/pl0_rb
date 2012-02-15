@@ -1,0 +1,6 @@
+# comment
+const a=100;
+# another comment
+begin
+write(a)
+end.

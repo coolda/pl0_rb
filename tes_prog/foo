@@ -1,0 +1,11 @@
+procedure foo;
+var a, b, c;
+begin
+a := 100;
+b := 200;
+c := a + b;
+write(c)
+end;
+begin
+call foo
+end.

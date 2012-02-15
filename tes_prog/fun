@@ -1,0 +1,9 @@
+### fun
+procedure fun;
+var a;
+begin 
+a := 100;
+write(a)
+end;
+call fun
+.

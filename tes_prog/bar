@@ -1,0 +1,10 @@
+### bar
+procedure bar;
+var a;
+begin
+a := 123;
+write(a)
+end;
+begin
+call bar
+end.
